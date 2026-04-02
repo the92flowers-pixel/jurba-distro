@@ -5,7 +5,7 @@
 Stardust Distro is a Vue 3 (Composition API) application with Firebase backend that provides a complete music distribution platform. The system generates DDEX-compliant ERN messages and Apple Music XML packages, delivering them to DSPs via multiple protocols.
 
 ## Project Structure
-
+`
 ```
 stardust-distro/
 ├── cli/                           # CLI tool for scaffolding
